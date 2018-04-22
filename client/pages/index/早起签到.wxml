@@ -22,59 +22,59 @@
     </script>
   </head>
   <body>
-    <div id="base" class="">
+    <view id="base" class="">
 
-      <!-- Unnamed (矩形) -->
-      <div id="u233" class="ax_default box_1">
-        <div id="u233_div" class=""></div>
-      </div>
+          <!-- Unnamed (矩形) -->
+          <view id="u233" class="ax_default box_1">
+            <view id="u233_div" class=""></view>
+          </view>
 
-      <!-- Unnamed (图片) -->
-      <div id="u234" class="ax_default image">
-        <img id="u234_img" class="img " src="images/早起签到/u234.jpg"/>
-      </div>
+          <!-- Unnamed (图片) -->
+          <view id="u234" class="ax_default image">
+            <image id="u234_img" class="img " src="images/早起签到/u234.jpg"></image>
+          </view>
 
-      <!-- Unnamed (矩形) -->
-      <div id="u235" class="ax_default label">
-        <div id="u235_div" class=""></div>
-        <div id="u235_text" class="text ">
-          <p><span>一日之计在于晨</span></p>
-        </div>
-      </div>
+          <!-- Unnamed (矩形) -->
+          <view id="u235" class="ax_default label">
+            <view id="u235_div" class=""></view>
+            <view id="u235_text" class="text ">
+              <view><text>一日之计在于晨<text></view>
+            </view>
+          </view>
 
-      <!-- Unnamed (椭圆形) -->
-      <div id="u236" class="ax_default ellipse">
-        <img id="u236_img" class="img " src="images/早起签到/u236.png"/>
-        <div id="u236_text" class="text ">
-          <p><span>早起</span></p><p><span>签到</span></p>
-        </div>
-      </div>
+          <!-- Unnamed (椭圆形) -->
+          <view id="u236" class="ax_default ellipse">
+            <image id="u236_img" class="img " src="images/早起签到/u236.png"></image>
+            <view id="u236_text" class="text ">
+              <view><text>早起<text></view><view><text>签到<text></view>
+            </view>
+          </view>
 
-      <!-- Unnamed (新母版 1) -->
+          <!-- Unnamed (新母版 1) -->
 
-      <!-- Unnamed (矩形) -->
-      <div id="u238" class="ax_default label">
-        <div id="u238_div" class=""></div>
-        <div id="u238_text" class="text ">
-          <p><span>返回</span></p>
-        </div>
-      </div>
+          <!-- Unnamed (矩形) -->
+          <view id="u238" class="ax_default label">
+            <view id="u238_div" class=""></view>
+            <view id="u238_text" class="text ">
+              <view><text>返回<text></view>
+            </view>
+          </view>
 
-      <!-- Unnamed (矩形) -->
-      <div id="u239" class="ax_default label">
-        <div id="u239_div" class=""></div>
-        <div id="u239_text" class="text ">
-          <p><span>早上七点之前可以签到 并且可获得叶子币5呦！</span></p>
-        </div>
-      </div>
+          <!-- Unnamed (矩形) -->
+          <view id="u239" class="ax_default label">
+            <view id="u239_div" class=""></view>
+            <view id="u239_text" class="text ">
+              <view><text>早上七点之前可以签到 并且可获得叶子币5呦！<text></view>
+            </view>
+          </view>
 
-      <!-- Unnamed (矩形) -->
-      <div id="u240" class="ax_default label">
-        <div id="u240_div" class=""></div>
-        <div id="u240_text" class="text ">
-          <p><span>您已成功签到：001天</span></p>
-        </div>
-      </div>
-    </div>
+          <!-- Unnamed (矩形) -->
+          <view id="u240" class="ax_default label">
+            <view id="u240_div" class=""></view>
+            <view id="u240_text" class="text ">
+              <view><text>您已成功签到：001天<text></view>
+            </view>
+          </view>
+        </view>
   </body>
 </html>

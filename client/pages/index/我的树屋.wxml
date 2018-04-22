@@ -22,107 +22,107 @@
     </script>
   </head>
   <body>
-    <div id="base" class="">
+    <view id="base" class="">
 
-      <!-- Unnamed (组 合) -->
-      <div id="u247" class="ax_default" data-left="123" data-top="126" data-width="375" data-height="667">
+          <!-- Unnamed (组 合) -->
+          <view id="u247" class="ax_default" data-left="123" data-top="126" data-width="375" data-height="667">
 
-        <!-- Unnamed (组 合) -->
-        <div id="u248" class="ax_default" data-left="123" data-top="126" data-width="375" data-height="667">
+            <!-- Unnamed (组 合) -->
+            <view id="u248" class="ax_default" data-left="123" data-top="126" data-width="375" data-height="667">
 
-          <!-- Unnamed (矩形) -->
-          <div id="u249" class="ax_default box_2">
-            <div id="u249_div" class=""></div>
-          </div>
+              <!-- Unnamed (矩形) -->
+              <view id="u249" class="ax_default box_2">
+                <view id="u249_div" class=""></view>
+              </view>
 
-          <!-- Unnamed (矩形) -->
-          <div id="u250" class="ax_default box_2">
-            <div id="u250_div" class=""></div>
-          </div>
-        </div>
+              <!-- Unnamed (矩形) -->
+              <view id="u250" class="ax_default box_2">
+                <view id="u250_div" class=""></view>
+              </view>
+            </view>
 
-        <!-- Unnamed (图片) -->
-        <div id="u251" class="ax_default image">
-          <img id="u251_img" class="img " src="images/我的树屋/u251.png"/>
-        </div>
+            <!-- Unnamed (图片) -->
+            <view id="u251" class="ax_default image">
+              <image id="u251_img" class="img " src="images/我的树屋/u251.png"></image>
+            </view>
 
-        <!-- Unnamed (矩形) -->
-        <div id="u252" class="ax_default _标题_2">
-          <div id="u252_div" class=""></div>
-          <div id="u252_text" class="text ">
-            <p><span>用户姓名：李振婷</span></p>
-          </div>
-        </div>
+            <!-- Unnamed (矩形) -->
+            <view id="u252" class="ax_default _标题_2">
+              <view id="u252_div" class=""></view>
+              <view id="u252_text" class="text ">
+                <view><text>用户姓名：李振婷<text></view>
+              </view>
+            </view>
 
-        <!-- Unnamed (矩形) -->
-        <div id="u253" class="ax_default _标题_2">
-          <div id="u253_div" class=""></div>
-          <div id="u253_text" class="text ">
-            <p><span>叶子币数： 00001</span></p>
-          </div>
-        </div>
+            <!-- Unnamed (矩形) -->
+            <view id="u253" class="ax_default _标题_2">
+              <view id="u253_div" class=""></view>
+              <view id="u253_text" class="text ">
+                <view><text>叶子币数： 00001<text></view>
+              </view>
+            </view>
 
-        <!-- Unnamed (组 合) -->
-        <div id="u254" class="ax_default" data-left="208" data-top="431" data-width="83" data-height="122">
+            <!-- Unnamed (组 合) -->
+            <view id="u254" class="ax_default" data-left="208" data-top="431" data-width="83" data-height="122">
 
-          <!-- Unnamed (矩形) -->
-          <div id="u255" class="ax_default label">
-            <div id="u255_div" class=""></div>
-            <div id="u255_text" class="text ">
-              <p><span>我的宠物</span></p>
-            </div>
-          </div>
+              <!-- Unnamed (矩形) -->
+              <view id="u255" class="ax_default label">
+                <view id="u255_div" class=""></view>
+                <view id="u255_text" class="text ">
+                  <view><text>我的宠物<text></view>
+                </view>
+              </view>
 
-          <!-- Unnamed (图片) -->
-          <div id="u256" class="ax_default image">
-            <img id="u256_img" class="img " src="images/我的树屋/u256.png"/>
-          </div>
-        </div>
+              <!-- Unnamed (图片) -->
+              <view id="u256" class="ax_default image">
+                <image id="u256_img" class="img " src="images/我的树屋/u256.png"></image>
+              </view>
+            </view>
 
-        <!-- Unnamed (组 合) -->
-        <div id="u257" class="ax_default" data-left="331" data-top="432" data-width="81" data-height="121">
+            <!-- Unnamed (组 合) -->
+            <view id="u257" class="ax_default" data-left="331" data-top="432" data-width="81" data-height="121">
 
-          <!-- Unnamed (矩形) -->
-          <div id="u258" class="ax_default label">
-            <div id="u258_div" class=""></div>
-            <div id="u258_text" class="text ">
-              <p><span>我的房屋</span></p>
-            </div>
-          </div>
+              <!-- Unnamed (矩形) -->
+              <view id="u258" class="ax_default label">
+                <view id="u258_div" class=""></view>
+                <view id="u258_text" class="text ">
+                  <view><text>我的房屋<text></view>
+                </view>
+              </view>
 
-          <!-- Unnamed (图片) -->
-          <div id="u259" class="ax_default image">
-            <img id="u259_img" class="img " src="images/我的树屋/u256.png"/>
-          </div>
-        </div>
+              <!-- Unnamed (图片) -->
+              <view id="u259" class="ax_default image">
+                <image id="u259_img" class="img " src="images/我的树屋/u256.png"></image>
+              </view>
+            </view>
 
-        <!-- Unnamed (水平线) -->
-        <div id="u260" class="ax_default arrow">
-          <img id="u260_img" class="img " src="images/心情果实介绍/u33.png"/>
-        </div>
+            <!-- Unnamed (水平线) -->
+            <view id="u260" class="ax_default arrow">
+              <image id="u260_img" class="img " src="images/心情果实介绍/u33.png"></image>
+            </view>
 
-        <!-- Unnamed (图片) -->
-        <div id="u261" class="ax_default image">
-          <img id="u261_img" class="img " src="images/我的树屋/u261.png"/>
-        </div>
+            <!-- Unnamed (图片) -->
+            <view id="u261" class="ax_default image">
+              <image id="u261_img" class="img " src="images/我的树屋/u261.png"></image>
+            </view>
 
-        <!-- Unnamed (组 合) -->
-        <div id="u262" class="ax_default" data-left="208" data-top="586" data-width="204" data-height="64">
+            <!-- Unnamed (组 合) -->
+            <view id="u262" class="ax_default" data-left="208" data-top="586" data-width="204" data-height="64">
 
-          <!-- Unnamed (矩形) -->
-          <div id="u263" class="ax_default _标题_1">
-            <div id="u263_div" class=""></div>
-            <div id="u263_text" class="text ">
-              <p><span>进入树屋</span></p>
-            </div>
-          </div>
+              <!-- Unnamed (矩形) -->
+              <view id="u263" class="ax_default _标题_1">
+                <view id="u263_div" class=""></view>
+                <view id="u263_text" class="text ">
+                  <view><text>进入树屋<text></view>
+                </view>
+              </view>
 
-          <!-- Unnamed (图片) -->
-          <div id="u264" class="ax_default image">
-            <img id="u264_img" class="img " src="images/我的树屋/u264.png"/>
-          </div>
-        </div>
-      </div>
-    </div>
+              <!-- Unnamed (图片) -->
+              <view id="u264" class="ax_default image">
+                <image id="u264_img" class="img " src="images/我的树屋/u264.png"></image>
+              </view>
+            </view>
+          </view>
+        </view>
   </body>
 </html>

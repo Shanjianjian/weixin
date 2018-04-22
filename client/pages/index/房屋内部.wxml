@@ -22,67 +22,67 @@
     </script>
   </head>
   <body>
-    <div id="base" class="">
+    <view id="base" class="">
 
-      <!-- Unnamed (矩形) -->
-      <div id="u391" class="ax_default box_1">
-        <div id="u391_div" class=""></div>
-      </div>
+         <!-- Unnamed (矩形) -->
+         <view id="u391" class="ax_default box_1">
+           <view id="u391_div" class=""></view>
+         </view>
 
-      <!-- Unnamed (矩形) -->
-      <div id="u392" class="ax_default box_2">
-        <div id="u392_div" class=""></div>
-      </div>
+         <!-- Unnamed (矩形) -->
+         <view id="u392" class="ax_default box_2">
+           <view id="u392_div" class=""></view>
+         </view>
 
-      <!-- Unnamed (矩形) -->
-      <div id="u393" class="ax_default primary_button">
-        <div id="u393_div" class=""></div>
-        <div id="u393_text" class="text ">
-          <p><span>客厅</span></p>
-        </div>
-      </div>
+         <!-- Unnamed (矩形) -->
+         <view id="u393" class="ax_default primary_button">
+           <view id="u393_div" class=""></view>
+           <view id="u393_text" class="text ">
+             <view><text>客厅<text></view>
+           </view>
+         </view>
 
-      <!-- Unnamed (矩形) -->
-      <div id="u394" class="ax_default primary_button">
-        <div id="u394_div" class=""></div>
-        <div id="u394_text" class="text ">
-          <p><span>卧室</span></p>
-        </div>
-      </div>
+         <!-- Unnamed (矩形) -->
+         <view id="u394" class="ax_default primary_button">
+           <view id="u394_div" class=""></view>
+           <view id="u394_text" class="text ">
+             <view><text>卧室<text></view>
+           </view>
+         </view>
 
-      <!-- Unnamed (矩形) -->
-      <div id="u395" class="ax_default primary_button">
-        <div id="u395_div" class=""></div>
-        <div id="u395_text" class="text ">
-          <p><span>厨房</span></p>
-        </div>
-      </div>
+         <!-- Unnamed (矩形) -->
+         <view id="u395" class="ax_default primary_button">
+           <view id="u395_div" class=""></view>
+           <view id="u395_text" class="text ">
+             <view><text>厨房<text></view>
+           </view>
+         </view>
 
-      <!-- Unnamed (图片) -->
-      <div id="u396" class="ax_default image">
-        <img id="u396_img" class="img " src="images/我的宠物/u303.png"/>
-      </div>
+         <!-- Unnamed (图片) -->
+         <view id="u396" class="ax_default image">
+           <image id="u396_img" class="img " src="images/我的宠物/u303.png"></image>
+         </view>
 
-      <!-- Unnamed (水平线) -->
-      <div id="u397" class="ax_default arrow">
-        <img id="u397_img" class="img " src="images/心情果实介绍/u33.png"/>
-      </div>
+         <!-- Unnamed (水平线) -->
+         <view id="u397" class="ax_default arrow">
+           <image id="u397_img" class="img " src="images/心情果实介绍/u33.png"></image>
+         </view>
 
-      <!-- Unnamed (矩形) -->
-      <div id="u398" class="ax_default label">
-        <div id="u398_div" class=""></div>
-        <div id="u398_text" class="text ">
-          <p><span>叶子币：00001</span></p>
-        </div>
-      </div>
+         <!-- Unnamed (矩形) -->
+         <view id="u398" class="ax_default label">
+           <view id="u398_div" class=""></view>
+           <view id="u398_text" class="text ">
+             <view><text>叶子币：00001<text></view>
+           </view>
+         </view>
 
-      <!-- Unnamed (矩形) -->
-      <div id="u399" class="ax_default primary_button">
-        <div id="u399_div" class=""></div>
-        <div id="u399_text" class="text ">
-          <p><span>更换</span></p>
-        </div>
-      </div>
-    </div>
+         <!-- Unnamed (矩形) -->
+         <view id="u399" class="ax_default primary_button">
+           <view id="u399_div" class=""></view>
+           <view id="u399_text" class="text ">
+             <view><text>更换<text></view>
+           </view>
+         </view>
+       </view>
   </body>
 </html>

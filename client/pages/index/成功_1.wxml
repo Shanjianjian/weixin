@@ -22,88 +22,88 @@
     </script>
   </head>
   <body>
-    <div id="base" class="">
+    <view id="base" class="">
 
-      <!-- Unnamed (矩形) -->
-      <div id="u219" class="ax_default box_1">
-        <div id="u219_div" class=""></div>
-      </div>
+         <!-- Unnamed (矩形) -->
+         <view id="u219" class="ax_default box_1">
+           <view id="u219_div" class=""></view>
+         </view>
 
-      <!-- Unnamed (组 合) -->
-      <div id="u220" class="ax_default" data-left="385" data-top="113" data-width="249" data-height="468">
+         <!-- Unnamed (组 合) -->
+         <view id="u220" class="ax_default" data-left="385" data-top="113" data-width="249" data-height="468">
 
-        <!-- Unnamed (组 合) -->
-        <div id="u221" class="ax_default" data-left="385" data-top="301" data-width="249" data-height="152">
+           <!-- Unnamed (组 合) -->
+           <view id="u221" class="ax_default" data-left="385" data-top="301" data-width="249" data-height="152">
 
-          <!-- Unnamed (图片) -->
-          <div id="u222" class="ax_default image">
-            <img id="u222_img" class="img " src="images/错误/u157.png"/>
-          </div>
-        </div>
+             <!-- Unnamed (图片) -->
+             <view id="u222" class="ax_default image">
+               <image id="u222_img" class="img " src="images/错误/u157.png"></image>
+             </view>
+           </view>
 
-        <!-- Unnamed (水平线) -->
-        <div id="u223" class="ax_default arrow">
-          <img id="u223_img" class="img " src="images/错误/u158.png"/>
-        </div>
+           <!-- Unnamed (水平线) -->
+           <view id="u223" class="ax_default arrow">
+             <image id="u223_img" class="img " src="images/错误/u158.png"></image>
+           </view>
 
-        <!-- Unnamed (矩形) -->
-        <div id="u224" class="ax_default link_button">
-          <div id="u224_div" class=""></div>
-          <div id="u224_text" class="text ">
-            <p><span>下一题</span></p>
-          </div>
-        </div>
+           <!-- Unnamed (矩形) -->
+           <view id="u224" class="ax_default link_button">
+             <view id="u224_div" class=""></view>
+             <view id="u224_text" class="text ">
+               <view><text>下一题<text></view>
+             </view>
+           </view>
 
-        <!-- Unnamed (组 合) -->
-        <div id="u225" class="ax_default" data-left="385" data-top="113" data-width="249" data-height="152">
+           <!-- Unnamed (组 合) -->
+           <view id="u225" class="ax_default" data-left="385" data-top="113" data-width="249" data-height="152">
 
-          <!-- Unnamed (矩形) -->
-          <div id="u226" class="ax_default box_3">
-            <div id="u226_div" class=""></div>
-          </div>
-        </div>
+             <!-- Unnamed (矩形) -->
+             <view id="u226" class="ax_default box_3">
+               <view id="u226_div" class=""></view>
+             </view>
+           </view>
 
-        <!-- Unnamed (矩形) -->
-        <div id="u227" class="ax_default _标题_2">
-          <div id="u227_div" class=""></div>
-          <div id="u227_text" class="text ">
-            <p><span>回答成功</span></p>
-          </div>
-        </div>
-      </div>
+           <!-- Unnamed (矩形) -->
+           <view id="u227" class="ax_default _标题_2">
+             <view id="u227_div" class=""></view>
+             <view id="u227_text" class="text ">
+               <view><text>回答成功<text></view>
+             </view>
+           </view>
+         </view>
 
-      <!-- Unnamed (组 合) -->
-      <div id="u228" class="ax_default" data-left="379" data-top="49" data-width="262" data-height="45">
+         <!-- Unnamed (组 合) -->
+         <view id="u228" class="ax_default" data-left="379" data-top="49" data-width="262" data-height="45">
 
-        <!-- Unnamed (水平线) -->
-        <div id="u229" class="ax_default arrow">
-          <img id="u229_img" class="img " src="images/单词积累介绍/u187.png"/>
-        </div>
+           <!-- Unnamed (水平线) -->
+           <view id="u229" class="ax_default arrow">
+             <image id="u229_img" class="img " src="images/单词积累介绍/u187.png"></image>
+           </view>
 
-        <!-- Unnamed (矩形) -->
-        <div id="u230" class="ax_default label">
-          <div id="u230_div" class=""></div>
-          <div id="u230_text" class="text ">
-            <p><span>已答题数：001</span></p>
-          </div>
-        </div>
+           <!-- Unnamed (矩形) -->
+           <view id="u230" class="ax_default label">
+             <view id="u230_div" class=""></view>
+             <view id="u230_text" class="text ">
+               <view><text>已答题数：001<text></view>
+             </view>
+           </view>
 
-        <!-- Unnamed (矩形) -->
-        <div id="u231" class="ax_default label">
-          <div id="u231_div" class=""></div>
-          <div id="u231_text" class="text ">
-            <p><span>答对题数：001</span></p>
-          </div>
-        </div>
+           <!-- Unnamed (矩形) -->
+           <view id="u231" class="ax_default label">
+             <view id="u231_div" class=""></view>
+             <view id="u231_text" class="text ">
+               <view><text>答对题数：001<text></view>
+             </view>
+           </view>
 
-        <!-- Unnamed (矩形) -->
-        <div id="u232" class="ax_default label">
-          <div id="u232_div" class=""></div>
-          <div id="u232_text" class="text ">
-            <p><span>叶子币：00001</span></p>
-          </div>
-        </div>
-      </div>
-    </div>
+           <!-- Unnamed (矩形) -->
+           <view id="u232" class="ax_default label">
+             <view id="u232_div" class=""></view>
+             <view id="u232_text" class="text ">
+               <view><text>叶子币：00001<text></view>
+             </view>
+           </view>
+         </view>
+       </view>
   </body>
 </html>

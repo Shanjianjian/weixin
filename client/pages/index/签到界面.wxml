@@ -22,40 +22,40 @@
     </script>
   </head>
   <body>
-    <div id="base" class="">
+    <view id="base" class="">
 
-      <!-- Unnamed (矩形) -->
-      <div id="u241" class="ax_default box_1">
-        <div id="u241_div" class=""></div>
-      </div>
+          <!-- Unnamed (矩形) -->
+          <view id="u241" class="ax_default box_1">
+            <view id="u241_div" class=""></view>
+          </view>
 
-      <!-- Unnamed (图片) -->
-      <div id="u242" class="ax_default image">
-        <img id="u242_img" class="img " src="images/签到界面/u242.jpg"/>
-      </div>
+          <!-- Unnamed (图片) -->
+          <view id="u242" class="ax_default image">
+            <image id="u242_img" class="img " src="images/签到界面/u242.jpg"></image>
+          </view>
 
-      <!-- Unnamed (矩形) -->
-      <div id="u243" class="ax_default label">
-        <div id="u243_div" class=""></div>
-        <div id="u243_text" class="text ">
-          <p><span style="font-family:'华文新魏 Bold', '华文新魏 Regular', '华文新魏';font-weight:700;">哇哦！</span></p><p><span style="font-family:'华文新魏 Bold', '华文新魏 Regular', '华文新魏';font-weight:700;">成功兑换</span><span style="font-family:'Curlz MT Normal', 'Curlz MT';font-weight:400;">20</span><span style="font-family:'华文新魏 Bold', '华文新魏 Regular', '华文新魏';font-weight:700;">叶子币呦！</span></p><p><span style="font-family:'华文新魏 Bold', '华文新魏 Regular', '华文新魏';font-weight:700;">开始美丽的一天吧</span></p><p><span style="font-family:'华文新魏 Bold', '华文新魏 Regular', '华文新魏';font-weight:700;"><br></span></p>
-        </div>
-      </div>
+          <!-- Unnamed (矩形) -->
+          <view id="u243" class="ax_default label">
+            <view id="u243_div" class=""></view>
+            <view id="u243_text" class="text ">
+              <view><text style="font-family:'华文新魏 Bold', '华文新魏 Regular', '华文新魏';font-weight:700;">哇哦！<text></view><view><text style="font-family:'华文新魏 Bold', '华文新魏 Regular', '华文新魏';font-weight:700;">成功兑换<text><text style="font-family:'Curlz MT Normal', 'Curlz MT';font-weight:400;">20<text><text style="font-family:'华文新魏 Bold', '华文新魏 Regular', '华文新魏';font-weight:700;">叶子币呦！<text></view><view><text style="font-family:'华文新魏 Bold', '华文新魏 Regular', '华文新魏';font-weight:700;">开始美丽的一天吧<text></view><view><text style="font-family:'华文新魏 Bold', '华文新魏 Regular', '华文新魏';font-weight:700;"><br><text></view>
+            </view>
+          </view>
 
-      <!-- Unnamed (新母版 1) -->
+          <!-- Unnamed (新母版 1) -->
 
-      <!-- Unnamed (矩形) -->
-      <div id="u245" class="ax_default label">
-        <div id="u245_div" class=""></div>
-        <div id="u245_text" class="text ">
-          <p><span>返回</span></p>
-        </div>
-      </div>
+          <!-- Unnamed (矩形) -->
+          <view id="u245" class="ax_default label">
+            <view id="u245_div" class=""></view>
+            <view id="u245_text" class="text ">
+              <view><text>返回<text></view>
+            </view>
+          </view>
 
-      <!-- Unnamed (形状) -->
-      <div id="u246" class="ax_default icon">
-        <img id="u246_img" class="img " src="images/签到界面/u246.png"/>
-      </div>
-    </div>
+          <!-- Unnamed (形状) -->
+          <view id="u246" class="ax_default icon">
+            <image id="u246_img" class="img " src="images/签到界面/u246.png"></image>
+          </view>
+        </view>
   </body>
 </html>
