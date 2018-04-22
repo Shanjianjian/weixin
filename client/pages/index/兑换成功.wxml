@@ -22,59 +22,59 @@
     </script>
   </head>
   <body>
-    <div id="base" class="">
+  <view id="base" class="">
 
-      <!-- Unnamed (矩形) -->
-      <div id="u111" class="ax_default box_1">
-        <div id="u111_div" class=""></div>
-      </div>
+       <!-- Unnamed (矩形) -->
+       <view id="u111" class="ax_default box_1">
+         <view id="u111_div" class=""></view>
+       </view>
 
-      <!-- Unnamed (图片) -->
-      <div id="u112" class="ax_default image">
-        <img id="u112_img" class="img " src="images/兑换成功/u112.png"/>
-      </div>
+       <!-- Unnamed (图片) -->
+       <view id="u112" class="ax_default image">
+         <image id="u112_img" class="img " src="images/兑换成功/u112.png"></image>
+       </view>
 
-      <!-- Unnamed (新母版 1) -->
+       <!-- Unnamed (新母版 1) -->
 
-      <!-- Unnamed (矩形) -->
-      <div id="u114" class="ax_default label">
-        <div id="u114_div" class=""></div>
-        <div id="u114_text" class="text ">
-          <p><span>返回</span></p>
-        </div>
-      </div>
+       <!-- Unnamed (矩形) -->
+       <view id="u114" class="ax_default label">
+         <view id="u114_div" class=""></view>
+         <view id="u114_text" class="text ">
+           <view><text>返回<text></view>
+         </view>
+       </view>
 
-      <!-- Unnamed (矩形) -->
-      <div id="u115" class="ax_default label">
-        <div id="u115_div" class=""></div>
-        <div id="u115_text" class="text ">
-          <p style="font-size:36px;"><span>&nbsp;&nbsp; </span><span style="color:#FF0000;">bingo！</span></p><p style="font-size:28px;"><span style="color:#00FFFF;">恭喜兑换</span><span style="color:#33FF00;">20</span><span style="color:#00FFFF;">叶子币</span></p>
-        </div>
-      </div>
+       <!-- Unnamed (矩形) -->
+       <view id="u115" class="ax_default label">
+         <view id="u115_div" class=""></view>
+         <view id="u115_text" class="text ">
+           <view style="font-size:72rpx;"><text>   <text><text style="color:#FF0000;">bingo！<text></view><view style="font-size:56rpx;"><text style="color:#00FFFF;">恭喜兑换<text><text style="color:#33FF00;">20<text><text style="color:#00FFFF;">叶子币<text></view>
+         </view>
+       </view>
 
-      <!-- Unnamed (矩形) -->
-      <div id="u116" class="ax_default label">
-        <div id="u116_div" class=""></div>
-        <div id="u116_text" class="text ">
-          <p><span>棒</span></p>
-        </div>
-      </div>
+       <!-- Unnamed (矩形) -->
+       <view id="u116" class="ax_default label">
+         <view id="u116_div" class=""></view>
+         <view id="u116_text" class="text ">
+           <view><text>棒<text></view>
+         </view>
+       </view>
 
-      <!-- Unnamed (矩形) -->
-      <div id="u117" class="ax_default label">
-        <div id="u117_div" class=""></div>
-        <div id="u117_text" class="text ">
-          <p><span>棒</span></p>
-        </div>
-      </div>
+       <!-- Unnamed (矩形) -->
+       <view id="u117" class="ax_default label">
+         <view id="u117_div" class=""></view>
+         <view id="u117_text" class="text ">
+           <view><text>棒<text></view>
+         </view>
+       </view>
 
-      <!-- Unnamed (矩形) -->
-      <div id="u118" class="ax_default label">
-        <div id="u118_div" class=""></div>
-        <div id="u118_text" class="text ">
-          <p><span>哒</span></p>
-        </div>
-      </div>
-    </div>
+       <!-- Unnamed (矩形) -->
+       <view id="u118" class="ax_default label">
+         <view id="u118_div" class=""></view>
+         <view id="u118_text" class="text ">
+           <view><text>哒<text></view>
+         </view>
+       </view>
+     </view>
   </body>
 </html>

@@ -22,379 +22,379 @@
     </script>
   </head>
   <body>
-    <div id="base" class="">
+    <view id="base" class="">
 
-      <!-- Unnamed (矩形) -->
-      <div id="u429" class="ax_default box_1">
-        <div id="u429_div" class=""></div>
-      </div>
+         <!-- Unnamed (矩形) -->
+         <view id="u429" class="ax_default box_1">
+           <view id="u429_div" class=""></view>
+         </view>
 
-      <!-- Unnamed (矩形) -->
-      <div id="u430" class="ax_default box_2">
-        <div id="u430_div" class=""></div>
-      </div>
+         <!-- Unnamed (矩形) -->
+         <view id="u430" class="ax_default box_2">
+           <view id="u430_div" class=""></view>
+         </view>
 
-      <!-- Unnamed (矩形) -->
-      <div id="u431" class="ax_default box_2">
-        <div id="u431_div" class=""></div>
-      </div>
+         <!-- Unnamed (矩形) -->
+         <view id="u431" class="ax_default box_2">
+           <view id="u431_div" class=""></view>
+         </view>
 
-      <!-- Unnamed (动态面板) -->
-      <div id="u432" class="ax_default">
-        <div id="u432_state0" class="panel_state" data-label="状态1" style="">
-          <div id="u432_state0_content" class="panel_state_content">
+         <!-- Unnamed (动态面板) -->
+         <view id="u432" class="ax_default">
+           <view id="u432_state0" class="panel_state" data-label="状态1" style="">
+             <view id="u432_state0_content" class="panel_state_content">
 
-            <!-- Unnamed (组 合) -->
-            <div id="u433" class="ax_default" data-left="5" data-top="6" data-width="313" data-height="896">
+               <!-- Unnamed (组 合) -->
+               <view id="u433" class="ax_default" data-left="5" data-top="6" data-width="313" data-height="896">
 
-              <!-- Unnamed (矩形) -->
-              <div id="u434" class="ax_default box_2">
-                <div id="u434_div" class=""></div>
-              </div>
+                 <!-- Unnamed (矩形) -->
+                 <view id="u434" class="ax_default box_2">
+                   <view id="u434_div" class=""></view>
+                 </view>
 
-              <!-- Unnamed (组 合) -->
-              <div id="u435" class="ax_default" data-left="5" data-top="6" data-width="290" data-height="141">
+                 <!-- Unnamed (组 合) -->
+                 <view id="u435" class="ax_default" data-left="5" data-top="6" data-width="290" data-height="141">
 
-                <!-- Unnamed (图片) -->
-                <div id="u436" class="ax_default image">
-                  <img id="u436_img" class="img " src="images/宠物商城/u436.png"/>
-                </div>
+                   <!-- Unnamed (图片) -->
+                   <view id="u436" class="ax_default image">
+                     <image id="u436_img" class="img " src="images/宠物商城/u436.png"></image>
+                   </view>
 
-                <!-- Unnamed (矩形) -->
-                <div id="u437" class="ax_default _标题_3">
-                  <div id="u437_div" class=""></div>
-                  <div id="u437_text" class="text ">
-                    <p><span>宠物1</span></p>
-                  </div>
-                </div>
+                   <!-- Unnamed (矩形) -->
+                   <view id="u437" class="ax_default _标题_3">
+                     <view id="u437_div" class=""></view>
+                     <view id="u437_text" class="text ">
+                       <view><text>宠物1<text></view>
+                     </view>
+                   </view>
 
-                <!-- Unnamed (矩形) -->
-                <div id="u438" class="ax_default _文本">
-                  <div id="u438_div" class=""></div>
-                  <div id="u438_text" class="text ">
-                    <p><span>宠物介绍宠物介绍宠物介绍宠物介绍宠物介绍宠物介绍</span></p>
-                  </div>
-                </div>
+                   <!-- Unnamed (矩形) -->
+                   <view id="u438" class="ax_default _文本">
+                     <view id="u438_div" class=""></view>
+                     <view id="u438_text" class="text ">
+                       <view><text>宠物介绍宠物介绍宠物介绍宠物介绍宠物介绍宠物介绍<text></view>
+                     </view>
+                   </view>
 
-                <!-- Unnamed (矩形) -->
-                <div id="u439" class="ax_default primary_button">
-                  <div id="u439_div" class=""></div>
-                  <div id="u439_text" class="text ">
-                    <p><span>购买</span></p>
-                  </div>
-                </div>
+                   <!-- Unnamed (矩形) -->
+                   <view id="u439" class="ax_default primary_button">
+                     <view id="u439_div" class=""></view>
+                     <view id="u439_text" class="text ">
+                       <view><text>购买<text></view>
+                     </view>
+                   </view>
 
-                <!-- Unnamed (矩形) -->
-                <div id="u440" class="ax_default label">
-                  <div id="u440_div" class=""></div>
-                  <div id="u440_text" class="text ">
-                    <p><span>金额：80叶子币</span></p>
-                  </div>
-                </div>
-              </div>
+                   <!-- Unnamed (矩形) -->
+                   <view id="u440" class="ax_default label">
+                     <view id="u440_div" class=""></view>
+                     <view id="u440_text" class="text ">
+                       <view><text>金额：80叶子币<text></view>
+                     </view>
+                   </view>
+                 </view>
 
-              <!-- Unnamed (组 合) -->
-              <div id="u441" class="ax_default" data-left="5" data-top="157" data-width="290" data-height="141">
+                 <!-- Unnamed (组 合) -->
+                 <view id="u441" class="ax_default" data-left="5" data-top="157" data-width="290" data-height="141">
 
-                <!-- Unnamed (图片) -->
-                <div id="u442" class="ax_default image">
-                  <img id="u442_img" class="img " src="images/宠物商城/u436.png"/>
-                </div>
+                   <!-- Unnamed (图片) -->
+                   <view id="u442" class="ax_default image">
+                     <image id="u442_img" class="img " src="images/宠物商城/u436.png"></image>
+                   </view>
 
-                <!-- Unnamed (矩形) -->
-                <div id="u443" class="ax_default _标题_3">
-                  <div id="u443_div" class=""></div>
-                  <div id="u443_text" class="text ">
-                    <p><span>宠物1</span></p>
-                  </div>
-                </div>
+                   <!-- Unnamed (矩形) -->
+                   <view id="u443" class="ax_default _标题_3">
+                     <view id="u443_div" class=""></view>
+                     <view id="u443_text" class="text ">
+                       <view><text>宠物1<text></view>
+                     </view>
+                   </view>
 
-                <!-- Unnamed (矩形) -->
-                <div id="u444" class="ax_default _文本">
-                  <div id="u444_div" class=""></div>
-                  <div id="u444_text" class="text ">
-                    <p><span>宠物介绍宠物介绍宠物介绍宠物介绍宠物介绍宠物介</span></p>
-                  </div>
-                </div>
+                   <!-- Unnamed (矩形) -->
+                   <view id="u444" class="ax_default _文本">
+                     <view id="u444_div" class=""></view>
+                     <view id="u444_text" class="text ">
+                       <view><text>宠物介绍宠物介绍宠物介绍宠物介绍宠物介绍宠物介<text></view>
+                     </view>
+                   </view>
 
-                <!-- Unnamed (矩形) -->
-                <div id="u445" class="ax_default primary_button">
-                  <div id="u445_div" class=""></div>
-                  <div id="u445_text" class="text ">
-                    <p><span>购买</span></p>
-                  </div>
-                </div>
-              </div>
+                   <!-- Unnamed (矩形) -->
+                   <view id="u445" class="ax_default primary_button">
+                     <view id="u445_div" class=""></view>
+                     <view id="u445_text" class="text ">
+                       <view><text>购买<text></view>
+                     </view>
+                   </view>
+                 </view>
 
-              <!-- Unnamed (组 合) -->
-              <div id="u446" class="ax_default" data-left="5" data-top="308" data-width="290" data-height="141">
+                 <!-- Unnamed (组 合) -->
+                 <view id="u446" class="ax_default" data-left="5" data-top="308" data-width="290" data-height="141">
 
-                <!-- Unnamed (图片) -->
-                <div id="u447" class="ax_default image">
-                  <img id="u447_img" class="img " src="images/宠物商城/u436.png"/>
-                </div>
+                   <!-- Unnamed (图片) -->
+                   <view id="u447" class="ax_default image">
+                     <image id="u447_img" class="img " src="images/宠物商城/u436.png"></image>
+                   </view>
 
-                <!-- Unnamed (矩形) -->
-                <div id="u448" class="ax_default _标题_3">
-                  <div id="u448_div" class=""></div>
-                  <div id="u448_text" class="text ">
-                    <p><span>宠物1</span></p>
-                  </div>
-                </div>
+                   <!-- Unnamed (矩形) -->
+                   <view id="u448" class="ax_default _标题_3">
+                     <view id="u448_div" class=""></view>
+                     <view id="u448_text" class="text ">
+                       <view><text>宠物1<text></view>
+                     </view>
+                   </view>
 
-                <!-- Unnamed (矩形) -->
-                <div id="u449" class="ax_default _文本">
-                  <div id="u449_div" class=""></div>
-                  <div id="u449_text" class="text ">
-                    <p><span>宠物介绍宠物介绍宠物介绍宠物介绍宠物介绍宠物介绍</span></p>
-                  </div>
-                </div>
+                   <!-- Unnamed (矩形) -->
+                   <view id="u449" class="ax_default _文本">
+                     <view id="u449_div" class=""></view>
+                     <view id="u449_text" class="text ">
+                       <view><text>宠物介绍宠物介绍宠物介绍宠物介绍宠物介绍宠物介绍<text></view>
+                     </view>
+                   </view>
 
-                <!-- Unnamed (矩形) -->
-                <div id="u450" class="ax_default primary_button">
-                  <div id="u450_div" class=""></div>
-                  <div id="u450_text" class="text ">
-                    <p><span>购买</span></p>
-                  </div>
-                </div>
-              </div>
+                   <!-- Unnamed (矩形) -->
+                   <view id="u450" class="ax_default primary_button">
+                     <view id="u450_div" class=""></view>
+                     <view id="u450_text" class="text ">
+                       <view><text>购买<text></view>
+                     </view>
+                   </view>
+                 </view>
 
-              <!-- Unnamed (组 合) -->
-              <div id="u451" class="ax_default" data-left="5" data-top="459" data-width="290" data-height="141">
+                 <!-- Unnamed (组 合) -->
+                 <view id="u451" class="ax_default" data-left="5" data-top="459" data-width="290" data-height="141">
 
-                <!-- Unnamed (图片) -->
-                <div id="u452" class="ax_default image">
-                  <img id="u452_img" class="img " src="images/宠物商城/u436.png"/>
-                </div>
+                   <!-- Unnamed (图片) -->
+                   <view id="u452" class="ax_default image">
+                     <image id="u452_img" class="img " src="images/宠物商城/u436.png"></image>
+                   </view>
 
-                <!-- Unnamed (矩形) -->
-                <div id="u453" class="ax_default _标题_3">
-                  <div id="u453_div" class=""></div>
-                  <div id="u453_text" class="text ">
-                    <p><span>宠物1</span></p>
-                  </div>
-                </div>
+                   <!-- Unnamed (矩形) -->
+                   <view id="u453" class="ax_default _标题_3">
+                     <view id="u453_div" class=""></view>
+                     <view id="u453_text" class="text ">
+                       <view><text>宠物1<text></view>
+                     </view>
+                   </view>
 
-                <!-- Unnamed (矩形) -->
-                <div id="u454" class="ax_default _文本">
-                  <div id="u454_div" class=""></div>
-                  <div id="u454_text" class="text ">
-                    <p><span>宠物介绍宠物介绍宠物介绍宠物介绍宠物介绍宠物介绍宠物介绍宠物介绍宠物介绍宠物介绍宠物介绍宠物介绍宠物介绍</span></p>
-                  </div>
-                </div>
+                   <!-- Unnamed (矩形) -->
+                   <view id="u454" class="ax_default _文本">
+                     <view id="u454_div" class=""></view>
+                     <view id="u454_text" class="text ">
+                       <view><text>宠物介绍宠物介绍宠物介绍宠物介绍宠物介绍宠物介绍宠物介绍宠物介绍宠物介绍宠物介绍宠物介绍宠物介绍宠物介绍<text></view>
+                     </view>
+                   </view>
 
-                <!-- Unnamed (矩形) -->
-                <div id="u455" class="ax_default primary_button">
-                  <div id="u455_div" class=""></div>
-                  <div id="u455_text" class="text ">
-                    <p><span>购买</span></p>
-                  </div>
-                </div>
-              </div>
+                   <!-- Unnamed (矩形) -->
+                   <view id="u455" class="ax_default primary_button">
+                     <view id="u455_div" class=""></view>
+                     <view id="u455_text" class="text ">
+                       <view><text>购买<text></view>
+                     </view>
+                   </view>
+                 </view>
 
-              <!-- Unnamed (组 合) -->
-              <div id="u456" class="ax_default" data-left="5" data-top="610" data-width="290" data-height="141">
+                 <!-- Unnamed (组 合) -->
+                 <view id="u456" class="ax_default" data-left="5" data-top="610" data-width="290" data-height="141">
 
-                <!-- Unnamed (图片) -->
-                <div id="u457" class="ax_default image">
-                  <img id="u457_img" class="img " src="images/宠物商城/u436.png"/>
-                </div>
+                   <!-- Unnamed (图片) -->
+                   <view id="u457" class="ax_default image">
+                     <image id="u457_img" class="img " src="images/宠物商城/u436.png"></image>
+                   </view>
 
-                <!-- Unnamed (矩形) -->
-                <div id="u458" class="ax_default _标题_3">
-                  <div id="u458_div" class=""></div>
-                  <div id="u458_text" class="text ">
-                    <p><span>宠物1</span></p>
-                  </div>
-                </div>
+                   <!-- Unnamed (矩形) -->
+                   <view id="u458" class="ax_default _标题_3">
+                     <view id="u458_div" class=""></view>
+                     <view id="u458_text" class="text ">
+                       <view><text>宠物1<text></view>
+                     </view>
+                   </view>
 
-                <!-- Unnamed (矩形) -->
-                <div id="u459" class="ax_default _文本">
-                  <div id="u459_div" class=""></div>
-                  <div id="u459_text" class="text ">
-                    <p><span>宠物介绍宠物介绍宠物介绍宠物介绍宠物介绍宠物介绍宠物介绍宠物介绍宠物介绍宠物介绍宠物介绍宠物介绍宠物介绍</span></p>
-                  </div>
-                </div>
+                   <!-- Unnamed (矩形) -->
+                   <view id="u459" class="ax_default _文本">
+                     <view id="u459_div" class=""></view>
+                     <view id="u459_text" class="text ">
+                       <view><text>宠物介绍宠物介绍宠物介绍宠物介绍宠物介绍宠物介绍宠物介绍宠物介绍宠物介绍宠物介绍宠物介绍宠物介绍宠物介绍<text></view>
+                     </view>
+                   </view>
 
-                <!-- Unnamed (矩形) -->
-                <div id="u460" class="ax_default primary_button">
-                  <div id="u460_div" class=""></div>
-                  <div id="u460_text" class="text ">
-                    <p><span>购买</span></p>
-                  </div>
-                </div>
-              </div>
+                   <!-- Unnamed (矩形) -->
+                   <view id="u460" class="ax_default primary_button">
+                     <view id="u460_div" class=""></view>
+                     <view id="u460_text" class="text ">
+                       <view><text>购买<text></view>
+                     </view>
+                   </view>
+                 </view>
 
-              <!-- Unnamed (组 合) -->
-              <div id="u461" class="ax_default" data-left="5" data-top="761" data-width="290" data-height="141">
+                 <!-- Unnamed (组 合) -->
+                 <view id="u461" class="ax_default" data-left="5" data-top="761" data-width="290" data-height="141">
 
-                <!-- Unnamed (图片) -->
-                <div id="u462" class="ax_default image">
-                  <img id="u462_img" class="img " src="images/宠物商城/u436.png"/>
-                </div>
+                   <!-- Unnamed (图片) -->
+                   <view id="u462" class="ax_default image">
+                     <image id="u462_img" class="img " src="images/宠物商城/u436.png"></image>
+                   </view>
 
-                <!-- Unnamed (矩形) -->
-                <div id="u463" class="ax_default _标题_3">
-                  <div id="u463_div" class=""></div>
-                  <div id="u463_text" class="text ">
-                    <p><span>宠物1</span></p>
-                  </div>
-                </div>
+                   <!-- Unnamed (矩形) -->
+                   <view id="u463" class="ax_default _标题_3">
+                     <view id="u463_div" class=""></view>
+                     <view id="u463_text" class="text ">
+                       <view><text>宠物1<text></view>
+                     </view>
+                   </view>
 
-                <!-- Unnamed (矩形) -->
-                <div id="u464" class="ax_default _文本">
-                  <div id="u464_div" class=""></div>
-                  <div id="u464_text" class="text ">
-                    <p><span>宠物介绍宠物介绍宠物介绍宠物介绍宠物介绍宠物介绍宠物介绍宠物介绍宠物介绍宠物介绍宠物介绍宠物介绍宠物介绍</span></p>
-                  </div>
-                </div>
+                   <!-- Unnamed (矩形) -->
+                   <view id="u464" class="ax_default _文本">
+                     <view id="u464_div" class=""></view>
+                     <view id="u464_text" class="text ">
+                       <view><text>宠物介绍宠物介绍宠物介绍宠物介绍宠物介绍宠物介绍宠物介绍宠物介绍宠物介绍宠物介绍宠物介绍宠物介绍宠物介绍<text></view>
+                     </view>
+                   </view>
 
-                <!-- Unnamed (矩形) -->
-                <div id="u465" class="ax_default primary_button">
-                  <div id="u465_div" class=""></div>
-                  <div id="u465_text" class="text ">
-                    <p><span>购买</span></p>
-                  </div>
-                </div>
-              </div>
-            </div>
+                   <!-- Unnamed (矩形) -->
+                   <view id="u465" class="ax_default primary_button">
+                     <view id="u465_div" class=""></view>
+                     <view id="u465_text" class="text ">
+                       <view><text>购买<text></view>
+                     </view>
+                   </view>
+                 </view>
+               </view>
 
-            <!-- Unnamed (矩形) -->
-            <div id="u466" class="ax_default label">
-              <div id="u466_div" class=""></div>
-              <div id="u466_text" class="text ">
-                <p><span>金额：100叶子币</span></p>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
+               <!-- Unnamed (矩形) -->
+               <view id="u466" class="ax_default label">
+                 <view id="u466_div" class=""></view>
+                 <view id="u466_text" class="text ">
+                   <view><text>金额：100叶子币<text></view>
+                 </view>
+               </view>
+             </view>
+           </view>
+         </view>
 
-      <!-- Unnamed (组 合) -->
-      <div id="u467" class="ax_default" data-left="284" data-top="127" data-width="57" data-height="5">
+         <!-- Unnamed (组 合) -->
+         <view id="u467" class="ax_default" data-left="284" data-top="127" data-width="57" data-height="5">
 
-        <!-- Unnamed (水平线) -->
-        <div id="u468" class="ax_default arrow">
-          <img id="u468_img" class="img " src="images/宠物商城/u468.png"/>
-        </div>
-      </div>
+           <!-- Unnamed (水平线) -->
+           <view id="u468" class="ax_default arrow">
+             <image id="u468_img" class="img " src="images/宠物商城/u468.png"></image>
+           </view>
+         </view>
 
-      <!-- Unnamed (矩形) -->
-      <div id="u469" class="ax_default label">
-        <div id="u469_div" class=""></div>
-        <div id="u469_text" class="text ">
-          <p><span>叶子币：00001</span></p>
-        </div>
-      </div>
+         <!-- Unnamed (矩形) -->
+         <view id="u469" class="ax_default label">
+           <view id="u469_div" class=""></view>
+           <view id="u469_text" class="text ">
+             <view><text>叶子币：00001<text></view>
+           </view>
+         </view>
 
-      <!-- Unnamed (组 合) -->
-      <div id="u470" class="ax_default ax_default_hidden" style="display:none; visibility: hidden" data-left="0" data-top="0" data-width="0" data-height="0">
+         <!-- Unnamed (组 合) -->
+         <view id="u470" class="ax_default ax_default_hidden" style="display:none; visibility: hidden" data-left="0" data-top="0" data-width="0" data-height="0">
 
-        <!-- Unnamed (矩形) -->
-        <div id="u471" class="ax_default box_3">
-          <div id="u471_div" class=""></div>
-        </div>
+           <!-- Unnamed (矩形) -->
+           <view id="u471" class="ax_default box_3">
+             <view id="u471_div" class=""></view>
+           </view>
 
-        <!-- Unnamed (矩形) -->
-        <div id="u472" class="ax_default _标题_2">
-          <div id="u472_div" class=""></div>
-          <div id="u472_text" class="text ">
-            <p><span>动态宠物</span></p>
-          </div>
-        </div>
+           <!-- Unnamed (矩形) -->
+           <view id="u472" class="ax_default _标题_2">
+             <view id="u472_div" class=""></view>
+             <view id="u472_text" class="text ">
+               <view><text>动态宠物<text></view>
+             </view>
+           </view>
 
-        <!-- Unnamed (图片) -->
-        <div id="u473" class="ax_default image">
-          <img id="u473_img" class="img " src="images/宠物商城/u473.png"/>
-        </div>
+           <!-- Unnamed (图片) -->
+           <view id="u473" class="ax_default image">
+             <image id="u473_img" class="img " src="images/宠物商城/u473.png"></image>
+           </view>
 
-        <!-- Unnamed (矩形) -->
-        <div id="u474" class="ax_default primary_button">
-          <div id="u474_div" class=""></div>
-          <div id="u474_text" class="text ">
-            <p><span>购买</span></p>
-          </div>
-        </div>
+           <!-- Unnamed (矩形) -->
+           <view id="u474" class="ax_default primary_button">
+             <view id="u474_div" class=""></view>
+             <view id="u474_text" class="text ">
+               <view><text>购买<text></view>
+             </view>
+           </view>
 
-        <!-- Unnamed (矩形) -->
-        <div id="u475" class="ax_default primary_button">
-          <div id="u475_div" class=""></div>
-          <div id="u475_text" class="text ">
-            <p><span>返回</span></p>
-          </div>
-        </div>
-      </div>
+           <!-- Unnamed (矩形) -->
+           <view id="u475" class="ax_default primary_button">
+             <view id="u475_div" class=""></view>
+             <view id="u475_text" class="text ">
+               <view><text>返回<text></view>
+             </view>
+           </view>
+         </view>
 
-      <!-- Unnamed (组 合) -->
-      <div id="u476" class="ax_default ax_default_hidden" style="display:none; visibility: hidden" data-left="0" data-top="0" data-width="0" data-height="0">
+         <!-- Unnamed (组 合) -->
+         <view id="u476" class="ax_default ax_default_hidden" style="display:none; visibility: hidden" data-left="0" data-top="0" data-width="0" data-height="0">
 
-        <!-- Unnamed (矩形) -->
-        <div id="u477" class="ax_default box_3">
-          <div id="u477_div" class=""></div>
-        </div>
+           <!-- Unnamed (矩形) -->
+           <view id="u477" class="ax_default box_3">
+             <view id="u477_div" class=""></view>
+           </view>
 
-        <!-- Unnamed (矩形) -->
-        <div id="u478" class="ax_default _文本">
-          <div id="u478_div" class=""></div>
-          <div id="u478_text" class="text ">
-            <p><span>&nbsp;&nbsp;&nbsp; 购买此宠物要花费20叶子币</span></p><p><span>&nbsp;&nbsp; &nbsp;&nbsp; 是否需要购买？</span></p>
-          </div>
-        </div>
+           <!-- Unnamed (矩形) -->
+           <view id="u478" class="ax_default _文本">
+             <view id="u478_div" class=""></view>
+             <view id="u478_text" class="text ">
+               <view><text>    购买此宠物要花费20叶子币<text></view><view><text>      是否需要购买？<text></view>
+             </view>
+           </view>
 
-        <!-- Unnamed (矩形) -->
-        <div id="u479" class="ax_default button">
-          <div id="u479_div" class=""></div>
-          <div id="u479_text" class="text ">
-            <p><span>否</span></p>
-          </div>
-        </div>
+           <!-- Unnamed (矩形) -->
+           <view id="u479" class="ax_default button">
+             <view id="u479_div" class=""></view>
+             <view id="u479_text" class="text ">
+               <view><text>否<text></view>
+             </view>
+           </view>
 
-        <!-- Unnamed (矩形) -->
-        <div id="u480" class="ax_default button">
-          <div id="u480_div" class=""></div>
-          <div id="u480_text" class="text ">
-            <p><span>是</span></p>
-          </div>
-        </div>
-      </div>
+           <!-- Unnamed (矩形) -->
+           <view id="u480" class="ax_default button">
+             <view id="u480_div" class=""></view>
+             <view id="u480_text" class="text ">
+               <view><text>是<text></view>
+             </view>
+           </view>
+         </view>
 
-      <!-- Unnamed (组 合) -->
-      <div id="u481" class="ax_default ax_default_hidden" style="display:none; visibility: hidden" data-left="0" data-top="0" data-width="0" data-height="0">
+         <!-- Unnamed (组 合) -->
+         <view id="u481" class="ax_default ax_default_hidden" style="display:none; visibility: hidden" data-left="0" data-top="0" data-width="0" data-height="0">
 
-        <!-- Unnamed (矩形) -->
-        <div id="u482" class="ax_default box_3">
-          <div id="u482_div" class=""></div>
-        </div>
+           <!-- Unnamed (矩形) -->
+           <view id="u482" class="ax_default box_3">
+             <view id="u482_div" class=""></view>
+           </view>
 
-        <!-- Unnamed (图片) -->
-        <div id="u483" class="ax_default image">
-          <img id="u483_img" class="img " src="images/我的宠物/u303.png"/>
-        </div>
+           <!-- Unnamed (图片) -->
+           <view id="u483" class="ax_default image">
+             <image id="u483_img" class="img " src="images/我的宠物/u303.png"></image>
+           </view>
 
-        <!-- Unnamed (矩形) -->
-        <div id="u484" class="ax_default _标题_2">
-          <div id="u484_div" class=""></div>
-          <div id="u484_text" class="text ">
-            <p><span>恭喜您，拥有了一只宠物</span></p>
-          </div>
-        </div>
+           <!-- Unnamed (矩形) -->
+           <view id="u484" class="ax_default _标题_2">
+             <view id="u484_div" class=""></view>
+             <view id="u484_text" class="text ">
+               <view><text>恭喜您，拥有了一只宠物<text></view>
+             </view>
+           </view>
 
-        <!-- Unnamed (矩形) -->
-        <div id="u485" class="ax_default primary_button">
-          <div id="u485_div" class=""></div>
-          <div id="u485_text" class="text ">
-            <p><span>返回商城</span></p>
-          </div>
-        </div>
+           <!-- Unnamed (矩形) -->
+           <view id="u485" class="ax_default primary_button">
+             <view id="u485_div" class=""></view>
+             <view id="u485_text" class="text ">
+               <view><text>返回商城<text></view>
+             </view>
+           </view>
 
-        <!-- Unnamed (矩形) -->
-        <div id="u486" class="ax_default primary_button">
-          <div id="u486_div" class=""></div>
-          <div id="u486_text" class="text ">
-            <p><span>查看效果</span></p>
-          </div>
-        </div>
-      </div>
-    </div>
+           <!-- Unnamed (矩形) -->
+           <view id="u486" class="ax_default primary_button">
+             <view id="u486_div" class=""></view>
+             <view id="u486_text" class="text ">
+               <view><text>查看效果<text></view>
+             </view>
+           </view>
+         </view>
+       </view>
   </body>
 </html>

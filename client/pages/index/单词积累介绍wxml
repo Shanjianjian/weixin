@@ -22,88 +22,88 @@
     </script>
   </head>
   <body>
-    <div id="base" class="">
+     <view id="base" class="">
 
-      <!-- Unnamed (组 合) -->
-      <div id="u177" class="ax_default" data-left="126" data-top="126" data-width="375" data-height="667">
+       <!-- Unnamed (组 合) -->
+       <view id="u177" class="ax_default" data-left="126" data-top="126" data-width="375" data-height="667">
 
-        <!-- Unnamed (组 合) -->
-        <div id="u178" class="ax_default" data-left="126" data-top="126" data-width="375" data-height="667">
+         <!-- Unnamed (组 合) -->
+         <view id="u178" class="ax_default" data-left="126" data-top="126" data-width="375" data-height="667">
 
-          <!-- Unnamed (矩形) -->
-          <div id="u179" class="ax_default box_1">
-            <div id="u179_div" class=""></div>
-          </div>
+           <!-- Unnamed (矩形) -->
+           <view id="u179" class="ax_default box_1">
+             <view id="u179_div" class=""></view>
+           </view>
 
-          <!-- Unnamed (矩形) -->
-          <div id="u180" class="ax_default box_2">
-            <div id="u180_div" class=""></div>
-          </div>
-        </div>
+           <!-- Unnamed (矩形) -->
+           <view id="u180" class="ax_default box_2">
+             <view id="u180_div" class=""></view>
+           </view>
+         </view>
 
-        <!-- Unnamed (矩形) -->
-        <div id="u181" class="ax_default _文本">
-          <div id="u181_div" class=""></div>
-          <div id="u181_text" class="text ">
-            <p style="font-size:23px;"><span style="color:#666666;">&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; </span><span style="color:#1E1E1E;">&nbsp; 单词积累</span></p><p style="font-size:23px;"><span style="color:#666666;"><br></span></p><p style="font-size:23px;"><span style="color:#666666;">&nbsp;&nbsp; &nbsp;&nbsp; 题库为我们提供了许多CET4和CET6常见词汇。</span></p><p style="font-size:23px;"><span style="color:#666666;">&nbsp;&nbsp; &nbsp; 让我们现在就开启我们的学习之旅吧！</span></p><p style="font-size:23px;"><span style="color:#666666;"><br></span></p><p style="font-size:23px;"><span style="color:#666666;">&nbsp;&nbsp;&nbsp; 答对一道题可积累</span><span style="font-size:28px;color:#FF3366;">2</span><span style="color:#666666;">个叶子币哦!</span></p>
-          </div>
-        </div>
+         <!-- Unnamed (矩形) -->
+         <view id="u181" class="ax_default _文本">
+           <view id="u181_div" class=""></view>
+           <view id="u181_text" class="text ">
+             <view style="font-size:46rpx;"><text style="color:#666666;">          <text><text style="color:#1E1E1E;">  单词积累<text></view><view style="font-size:46rpx;"><text style="color:#666666;"><br><text></view><view style="font-size:46rpx;"><text style="color:#666666;">      题库为我们提供了许多CET4和CET6常见词汇。<text></view><view style="font-size:46rpx;"><text style="color:#666666;">     让我们现在就开启我们的学习之旅吧！<text></view><view style="font-size:46rpx;"><text style="color:#666666;"><br><text></view><view style="font-size:46rpx;"><text style="color:#666666;">    答对一道题可积累<text><text style="font-size:56rpx;color:#FF3366;">2<text><text style="color:#666666;">个叶子币哦!<text></view>
+           </view>
+         </view>
 
-        <!-- Unnamed (组 合) -->
-        <div id="u182" class="ax_default" data-left="239" data-top="597" data-width="149" data-height="71">
+         <!-- Unnamed (组 合) -->
+         <view id="u182" class="ax_default" data-left="239" data-top="597" data-width="149" data-height="71">
 
-          <!-- Unnamed (水平线) -->
-          <div id="u183" class="ax_default line">
-            <img id="u183_img" class="img " src="images/心情果实介绍/u38.png"/>
-          </div>
+           <!-- Unnamed (水平线) -->
+           <view id="u183" class="ax_default line">
+             <image id="u183_img" class="img " src="images/心情果实介绍/u38.png"></image>
+           </view>
 
-          <!-- Unnamed (矩形) -->
-          <div id="u184" class="ax_default link_button">
-            <div id="u184_div" class=""></div>
-            <div id="u184_text" class="text ">
-              <p><span>开始挑战</span></p>
-            </div>
-          </div>
+           <!-- Unnamed (矩形) -->
+           <view id="u184" class="ax_default link_button">
+             <view id="u184_div" class=""></view>
+             <view id="u184_text" class="text ">
+               <view><text>开始挑战<text></view>
+             </view>
+           </view>
 
-          <!-- Unnamed (水平线) -->
-          <div id="u185" class="ax_default line">
-            <img id="u185_img" class="img " src="images/心情果实介绍/u38.png"/>
-          </div>
-        </div>
+           <!-- Unnamed (水平线) -->
+           <view id="u185" class="ax_default line">
+             <image id="u185_img" class="img " src="images/心情果实介绍/u38.png"></image>
+           </view>
+         </view>
 
-        <!-- Unnamed (组 合) -->
-        <div id="u186" class="ax_default" data-left="197" data-top="177" data-width="262" data-height="44">
+         <!-- Unnamed (组 合) -->
+         <view id="u186" class="ax_default" data-left="197" data-top="177" data-width="262" data-height="44">
 
-          <!-- Unnamed (水平线) -->
-          <div id="u187" class="ax_default arrow">
-            <img id="u187_img" class="img " src="images/单词积累介绍/u187.png"/>
-          </div>
+           <!-- Unnamed (水平线) -->
+           <view id="u187" class="ax_default arrow">
+             <image id="u187_img" class="img " src="images/单词积累介绍/u187.png"></image>
+           </view>
 
-          <!-- Unnamed (矩形) -->
-          <div id="u188" class="ax_default label">
-            <div id="u188_div" class=""></div>
-            <div id="u188_text" class="text ">
-              <p><span>已答题数：001</span></p>
-            </div>
-          </div>
+           <!-- Unnamed (矩形) -->
+           <view id="u188" class="ax_default label">
+             <view id="u188_div" class=""></view>
+             <view id="u188_text" class="text ">
+               <view><text>已答题数：001<text></view>
+             </view>
+           </view>
 
-          <!-- Unnamed (矩形) -->
-          <div id="u189" class="ax_default label">
-            <div id="u189_div" class=""></div>
-            <div id="u189_text" class="text ">
-              <p><span>答对题数：001</span></p>
-            </div>
-          </div>
+           <!-- Unnamed (矩形) -->
+           <view id="u189" class="ax_default label">
+             <view id="u189_div" class=""></view>
+             <view id="u189_text" class="text ">
+               <view><text>答对题数：001<text></view>
+             </view>
+           </view>
 
-          <!-- Unnamed (矩形) -->
-          <div id="u190" class="ax_default label">
-            <div id="u190_div" class=""></div>
-            <div id="u190_text" class="text ">
-              <p><span>叶子币：00001</span></p>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </body>
+           <!-- Unnamed (矩形) -->
+           <view id="u190" class="ax_default label">
+             <view id="u190_div" class=""></view>
+             <view id="u190_text" class="text ">
+               <view><text>叶子币：00001<text></view>
+             </view>
+           </view>
+         </view>
+       </view>
+     </view>
+   </body>
 </html>
