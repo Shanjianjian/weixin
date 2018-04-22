@@ -1,0 +1,229 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <title>心情果实</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <link href="resources/css/jquery-ui-themes.css" type="text/css" rel="stylesheet"/>
+    <link href="resources/css/axure_rp_page.css" type="text/css" rel="stylesheet"/>
+    <link href="data/styles.css" type="text/css" rel="stylesheet"/>
+    <link href="files/心情果实/styles.css" type="text/css" rel="stylesheet"/>
+    <script src="resources/scripts/jquery-1.7.1.min.js"></script>
+    <script src="resources/scripts/jquery-ui-1.8.10.custom.min.js"></script>
+    <script src="resources/scripts/prototypePre.js"></script>
+    <script src="data/document.js"></script>
+    <script src="resources/scripts/prototypePost.js"></script>
+    <script src="files/心情果实/data.js"></script>
+    <script type="text/javascript">
+      $axure.utils.getTransparentGifPath = function() { return 'resources/images/transparent.gif'; };
+      $axure.utils.getOtherPath = function() { return 'resources/Other.html'; };
+      $axure.utils.getReloadPath = function() { return 'resources/reload.html'; };
+    </script>
+  </head>
+  <body>
+    <div id="base" class="">
+
+      <!-- Unnamed (组 合) -->
+      <div id="u41" class="ax_default" data-left="126" data-top="126" data-width="375" data-height="667">
+
+        <!-- Unnamed (组 合) -->
+        <div id="u42" class="ax_default" data-left="126" data-top="126" data-width="375" data-height="667">
+
+          <!-- Unnamed (矩形) -->
+          <div id="u43" class="ax_default box_1">
+            <div id="u43_div" class=""></div>
+          </div>
+
+          <!-- Unnamed (矩形) -->
+          <div id="u44" class="ax_default box_2">
+            <div id="u44_div" class=""></div>
+          </div>
+        </div>
+
+        <!-- Unnamed (组 合) -->
+        <div id="u45" class="ax_default" data-left="141" data-top="296" data-width="360" data-height="365">
+
+          <!-- Unnamed (图片) -->
+          <div id="u46" class="ax_default image">
+            <img id="u46_img" class="img " src="images/心情果实/u46.png"/>
+          </div>
+
+          <!-- Unnamed (图片) -->
+          <div id="u47" class="ax_default image">
+            <img id="u47_img" class="img " src="images/心情果实/u47.png"/>
+          </div>
+
+          <!-- Unnamed (图片) -->
+          <div id="u48" class="ax_default image">
+            <img id="u48_img" class="img " src="images/心情果实/u47.png"/>
+          </div>
+
+          <!-- Unnamed (图片) -->
+          <div id="u49" class="ax_default image">
+            <img id="u49_img" class="img " src="images/心情果实/u47.png"/>
+          </div>
+
+          <!-- Unnamed (图片) -->
+          <div id="u50" class="ax_default image">
+            <img id="u50_img" class="img " src="images/心情果实/u47.png"/>
+          </div>
+
+          <!-- Unnamed (图片) -->
+          <div id="u51" class="ax_default image">
+            <img id="u51_img" class="img " src="images/心情果实/u47.png"/>
+          </div>
+
+          <!-- Unnamed (图片) -->
+          <div id="u52" class="ax_default image">
+            <img id="u52_img" class="img " src="images/心情果实/u47.png"/>
+          </div>
+
+          <!-- Unnamed (图片) -->
+          <div id="u53" class="ax_default image">
+            <img id="u53_img" class="img " src="images/心情果实/u47.png"/>
+          </div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u54" class="ax_default _标题_3">
+          <div id="u54_div" class=""></div>
+          <div id="u54_text" class="text ">
+            <p><span>心情果实</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (水平线) -->
+        <div id="u55" class="ax_default arrow">
+          <img id="u55_img" class="img " src="images/心情果实介绍/u33.png"/>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u56" class="ax_default label">
+          <div id="u56_div" class=""></div>
+          <div id="u56_text" class="text ">
+            <p><span>叶子币：00001</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u57" class="ax_default label">
+          <div id="u57_div" class=""></div>
+          <div id="u57_text" class="text ">
+            <p><span>请点击红色苹果</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u58" class="ax_default label">
+          <div id="u58_div" class=""></div>
+          <div id="u58_text" class="text ">
+            <p><span>剩余次数：5次</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (矩形) [footnote] -->
+        <div id="u58_ann" class="annotation"></div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u59" class="ax_default button">
+          <div id="u59_div" class=""></div>
+          <div id="u59_text" class="text ">
+            <p><span>增加</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (组 合) -->
+        <div id="u60" class="ax_default ax_default_hidden" style="display:none; visibility: hidden" data-left="0" data-top="0" data-width="0" data-height="0">
+
+          <!-- Unnamed (矩形) -->
+          <div id="u61" class="ax_default box_2">
+            <div id="u61_div" class=""></div>
+          </div>
+
+          <!-- Unnamed (矩形) -->
+          <div id="u62" class="ax_default _文本">
+            <div id="u62_div" class=""></div>
+            <div id="u62_text" class="text ">
+              <p style="font-size:20px;"><span>五个叶子币可购买一次点击次数</span></p><p style="font-size:20px;"><span><br></span></p><p style="font-size:20px;"><span>&nbsp;&nbsp; &nbsp;&nbsp; </span><span style="font-size:28px;color:#FF3300;">是否购买？</span></p>
+            </div>
+          </div>
+
+          <!-- Unnamed (矩形) -->
+          <div id="u63" class="ax_default button">
+            <div id="u63_div" class=""></div>
+            <div id="u63_text" class="text ">
+              <p><span>是</span></p>
+            </div>
+          </div>
+
+          <!-- Unnamed (矩形) -->
+          <div id="u64" class="ax_default button">
+            <div id="u64_div" class=""></div>
+            <div id="u64_text" class="text ">
+              <p><span>否</span></p>
+            </div>
+          </div>
+        </div>
+
+        <!-- Unnamed (组 合) -->
+        <div id="u65" class="ax_default ax_default_hidden" style="display:none; visibility: hidden" data-left="0" data-top="0" data-width="0" data-height="0">
+
+          <!-- Unnamed (矩形) -->
+          <div id="u66" class="ax_default box_2">
+            <div id="u66_div" class=""></div>
+            <div id="u66_text" class="text ">
+              <p><span><br></span></p><p><span><br></span></p><p><span><br></span></p><p><span>春眠不觉晓，上班也睡觉；上司若问责，还是要睡觉；最后上司怒火中烧，你这时可以趁机提出涨工资！因为你的理由很充分，你是：特困户！</span></p><p><span><br></span></p><p><span><br></span></p><p><span><br></span></p>
+            </div>
+          </div>
+
+          <!-- Unnamed (矩形) -->
+          <div id="u67" class="ax_default _标题_2">
+            <div id="u67_div" class=""></div>
+            <div id="u67_text" class="text ">
+              <p><span>开心一笑</span></p>
+            </div>
+          </div>
+
+          <!-- Unnamed (矩形) -->
+          <div id="u68" class="ax_default button">
+            <div id="u68_div" class=""></div>
+            <div id="u68_text" class="text ">
+              <p><span>返回</span></p>
+            </div>
+          </div>
+        </div>
+
+        <!-- Unnamed (组 合) -->
+        <div id="u69" class="ax_default ax_default_hidden" style="display:none; visibility: hidden" data-left="0" data-top="0" data-width="0" data-height="0">
+
+          <!-- Unnamed (矩形) -->
+          <div id="u70" class="ax_default box_3">
+            <div id="u70_div" class=""></div>
+          </div>
+
+          <!-- Unnamed (图片) -->
+          <div id="u71" class="ax_default image">
+            <img id="u71_img" class="img " src="images/心情果实/u71.png"/>
+          </div>
+
+          <!-- Unnamed (矩形) -->
+          <div id="u72" class="ax_default _标题_2">
+            <div id="u72_div" class=""></div>
+            <div id="u72_text" class="text ">
+              <p style="font-size:36px;"><span>&nbsp;&nbsp;&nbsp; </span><span style="color:#FFCC00;">恭喜你</span></p><p style="font-size:36px;"><span>&nbsp;&nbsp;&nbsp; </span><span style="color:#FF3300;">中奖啦</span><span>！</span></p><p style="font-size:24px;"><span>获得</span><span style="font-size:36px;color:#FF3300;">20</span><span>个叶子币</span></p><p style="font-size:24px;"><span><br></span></p>
+            </div>
+          </div>
+
+          <!-- Unnamed (矩形) -->
+          <div id="u73" class="ax_default button">
+            <div id="u73_div" class=""></div>
+            <div id="u73_text" class="text ">
+              <p><span>返回</span></p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

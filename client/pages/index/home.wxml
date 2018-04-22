@@ -1,0 +1,128 @@
+    <link href="resources/css/jquery-ui-themes.css" type="text/css" rel="stylesheet"/>
+    <link href="resources/css/axure_rp_page.css" type="text/css" rel="stylesheet"/>
+    <link href="data/styles.css" type="text/css" rel="stylesheet"/>
+    <link href="files/home/styles.css" type="text/css" rel="stylesheet"/>
+
+
+
+      <!-- Unnamed (矩形) -->
+      <view id="u0" class="ax_default box_1">
+        <view id="u0_div" class=""></view>
+      </view>
+
+      <!-- Unnamed (图片) -->
+      <view id="u1" class="ax_default image">
+        <image id="u1_img" class="img " src="../image/home/u1.png"></image>
+      </view>
+
+      <!-- Unnamed (矩形) -->
+      <view id="u2" class="ax_default link_button">
+        <view id="u2_div" class=""></view>
+        <view id="u2_text" class="text ">
+          <view><text>我的树屋</text></view>
+        </view>
+      </view>
+
+      <!-- Unnamed (矩形) -->
+      <view id="u3" class="ax_default link_button">
+        <view id="u3_div" class=""></view>
+        <view id="u3_text" class="text ">
+          <view><text>我的商城</text></view>
+        </view>
+      </view>
+
+      <!-- Unnamed (组 合) -->
+      <view id="u4" class="ax_default" data-left="525" data-top="432" data-width="233" data-height="64">
+
+        <!-- Unnamed (矩形) -->
+        <view id="u5" class="ax_default link_button">
+          <view id="u5_div" class=""></view>
+          <view id="u5_text" class="text ">
+            <view><text>心情果实</text></view>
+          </view>
+        </view>
+
+        <!-- Unnamed (图片) -->
+        <view id="u6" class="ax_default image">
+          <image id="u6_img" class="img " src="../image/home/u6.png"></image>
+        </view>
+      </view>
+
+      <!-- Unnamed (组 合) -->
+      <view id="u7" class="ax_default" data-left="527" data-top="538" data-width="231" data-height="48">
+
+        <!-- Unnamed (矩形) -->
+        <view id="u8" class="ax_default link_button">
+          <view id="u8_div" class=""></view>
+          <view id="u8_text" class="text ">
+            <view><text>单词积累</text></view>
+          </view>
+        </view>
+
+        <!-- Unnamed (图片) -->
+        <view id="u9" class="ax_default image">
+          <image id="u9_img" class="img " src="../image/home/u6.png"></image>
+        </view>
+      </view>
+
+      <!-- Unnamed (组 合) -->
+      <view id="u10" class="ax_default" data-left="523" data-top="160" data-width="240" data-height="48">
+
+        <!-- Unnamed (图片) -->
+        <view id="u11" class="ax_default image">
+          <image id="u11_img" class="img " src="../image/home/u6.png"></image>
+        </view>
+
+        <!-- Unnamed (矩形) -->
+        <view id="u12" class="ax_default link_button">
+          <view id="u12_div" class=""></view>
+          <view id="u12_text" class="text ">
+            <view><text>知识问答</text></view>
+          </view>
+        </view>
+      </view>
+
+      <!-- Unnamed (组 合) -->
+      <view id="u13" class="ax_default" data-left="522" data-top="238" data-width="242" data-height="68">
+
+        <!-- Unnamed (矩形) -->
+        <view id="u14" class="ax_default link_button">
+          <view id="u14_div" class=""></view>
+          <view id="u14_text" class="text ">
+            <view><text>运动步数</text></view>
+          </view>
+        </view>
+
+        <!-- Unnamed (图片) -->
+        <view id="u15" class="ax_default image">
+          <image id="u15_img" class="img " src="../image/home/u6.png"></image>
+        </view>
+      </view>
+
+      <!-- Unnamed (组 合) -->
+      <view id="u16" class="ax_default" data-left="522" data-top="344" data-width="242" data-height="48">
+
+        <!-- Unnamed (图片) -->
+        <view id="u17" class="ax_default image">
+          <image id="u17_img" class="img " src="../image/home/u6.png"></image>
+        </view>
+
+        <!-- Unnamed (矩形) -->
+        <view id="u18" class="ax_default link_button">
+          <view id="u18_div" class=""></view>
+          <view id="u18_text" class="text ">
+            <view><text>早起签到</text></view>
+          </view>
+        </view>
+      </view>a
+
+      <!-- Unnamed (矩形) -->
+      <view id="u19" class="ax_default label">
+        <view id="u19_div" class=""></view>
+        <view id="u19_text" class="text ">
+          <view><text>叶子币：00001</text></view>
+        </view>
+      </view>
+    
+
+

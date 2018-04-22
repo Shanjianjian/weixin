@@ -1,0 +1,170 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <title>题目</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <link href="resources/css/jquery-ui-themes.css" type="text/css" rel="stylesheet"/>
+    <link href="resources/css/axure_rp_page.css" type="text/css" rel="stylesheet"/>
+    <link href="data/styles.css" type="text/css" rel="stylesheet"/>
+    <link href="files/题目/styles.css" type="text/css" rel="stylesheet"/>
+    <script src="resources/scripts/jquery-1.7.1.min.js"></script>
+    <script src="resources/scripts/jquery-ui-1.8.10.custom.min.js"></script>
+    <script src="resources/scripts/prototypePre.js"></script>
+    <script src="data/document.js"></script>
+    <script src="resources/scripts/prototypePost.js"></script>
+    <script src="files/题目/data.js"></script>
+    <script type="text/javascript">
+      $axure.utils.getTransparentGifPath = function() { return 'resources/images/transparent.gif'; };
+      $axure.utils.getOtherPath = function() { return 'resources/Other.html'; };
+      $axure.utils.getReloadPath = function() { return 'resources/reload.html'; };
+    </script>
+  </head>
+  <body>
+    <div id="base" class="">
+
+      <!-- Unnamed (组 合) -->
+      <div id="u130" class="ax_default" data-left="126" data-top="125" data-width="375" data-height="667">
+
+        <!-- Unnamed (矩形) -->
+        <div id="u131" class="ax_default box_2">
+          <div id="u131_div" class=""></div>
+        </div>
+
+        <!-- Unnamed (动态面板) -->
+        <div id="u132" class="ax_default">
+          <div id="u132_state0" class="panel_state" data-label="状态1" style="">
+            <div id="u132_state0_content" class="panel_state_content">
+
+              <!-- Unnamed (组 合) -->
+              <div id="u133" class="ax_default" data-left="0" data-top="0" data-width="375" data-height="667">
+
+                <!-- Unnamed (矩形) -->
+                <div id="u134" class="ax_default box_1">
+                  <div id="u134_div" class=""></div>
+                </div>
+
+                <!-- Unnamed (矩形) -->
+                <div id="u135" class="ax_default box_2">
+                  <div id="u135_div" class=""></div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Unnamed (水平线) -->
+        <div id="u136" class="ax_default arrow">
+          <img id="u136_img" class="img " src="images/题目/u136.png"/>
+        </div>
+
+        <!-- Unnamed (组 合) -->
+        <div id="u137" class="ax_default" data-left="257" data-top="387" data-width="101" data-height="237">
+
+          <!-- Unnamed (单选按钮) -->
+          <div id="u138" class="ax_default radio_button">
+            <label for="u138_input" style="position: absolute; left: 0px;">
+              <div id="u138_text" class="text ">
+                <p><span>&nbsp; 俄国</span></p>
+              </div>
+            </label>
+            <input id="u138_input" type="radio" value="radio" name="组合"/>
+          </div>
+
+          <!-- Unnamed (单选按钮) -->
+          <div id="u139" class="ax_default radio_button">
+            <label for="u139_input" style="position: absolute; left: 0px;">
+              <div id="u139_text" class="text ">
+                <p><span>&nbsp; 美国</span></p>
+              </div>
+            </label>
+            <input id="u139_input" type="radio" value="radio" name="组合"/>
+          </div>
+
+          <!-- Unnamed (单选按钮) -->
+          <div id="u140" class="ax_default radio_button">
+            <label for="u140_input" style="position: absolute; left: 0px;">
+              <div id="u140_text" class="text ">
+                <p><span>&nbsp; 英国</span></p>
+              </div>
+            </label>
+            <input id="u140_input" type="radio" value="radio" name="组合"/>
+          </div>
+
+          <!-- Unnamed (单选按钮) -->
+          <div id="u141" class="ax_default radio_button">
+            <label for="u141_input" style="position: absolute; left: 0px;">
+              <div id="u141_text" class="text ">
+                <p><span>&nbsp; 法国</span></p>
+              </div>
+            </label>
+            <input id="u141_input" type="radio" value="radio" name="组合"/>
+          </div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u142" class="ax_default label">
+          <div id="u142_div" class=""></div>
+          <div id="u142_text" class="text ">
+            <p style="font-size:14px;"><span style="font-family:'Arial Rounded MT Bold', 'Arial Rounded MT';font-weight:700;font-size:28px;">1.“冰激凌”是从哪国传进的外来语</span><span style="font-family:'Arial Normal', 'Arial';font-weight:400;"> </span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u143" class="ax_default link_button">
+          <div id="u143_div" class=""></div>
+          <div id="u143_text" class="text ">
+            <p><span>跳过</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u144" class="ax_default label">
+          <div id="u144_div" class=""></div>
+          <div id="u144_text" class="text ">
+            <p><span>叶子币：00001</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u145" class="ax_default link_button">
+          <div id="u145_div" class=""></div>
+          <div id="u145_text" class="text ">
+            <p><span>提交</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (水平线) -->
+        <div id="u146" class="ax_default arrow">
+          <img id="u146_img" class="img " src="images/题目/u136.png"/>
+        </div>
+
+        <!-- Unnamed (水平线) -->
+        <div id="u147" class="ax_default arrow">
+          <img id="u147_img" class="img " src="images/心情果实介绍/u33.png"/>
+        </div>
+
+        <!-- Unnamed (组 合) -->
+        <div id="u148" class="ax_default" data-left="197" data-top="212" data-width="237" data-height="18">
+
+          <!-- Unnamed (矩形) -->
+          <div id="u149" class="ax_default label">
+            <div id="u149_div" class=""></div>
+            <div id="u149_text" class="text ">
+              <p><span>已答题数：001</span></p>
+            </div>
+          </div>
+
+          <!-- Unnamed (矩形) -->
+          <div id="u150" class="ax_default label">
+            <div id="u150_div" class=""></div>
+            <div id="u150_text" class="text ">
+              <p><span>答对题数：001</span></p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

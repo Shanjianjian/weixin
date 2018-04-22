@@ -1,0 +1,239 @@
+/* so the window resize fires within a frame in IE7 */
+html, body {
+    height: 100%;
+}
+
+a {
+    color: inherit;
+}
+
+p {
+    margin: 0rpx;
+    text-rendering: optimizeLegibility;
+    font-feature-settings: "kern" 1;
+    -webkit-font-feature-settings: "kern";
+    -moz-font-feature-settings: "kern";
+    -moz-font-feature-settings: "kern=1";
+    font-kerning: normal;
+}
+
+iframe {
+    background: #FFFFFF;
+}
+
+/* to match IE with C, FF */
+input {
+    padding: 2rpx 0rpx 2rpx 0rpx;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+}
+
+textarea {
+    margin: 0rpx;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+}
+
+div.intcases {
+    font-family: arial; 
+    font-size: 24rpx;
+    text-align:left; 
+    border:2rpx solid #AAA; 
+    background:#FFF none repeat scroll 0% 0%; 
+    z-index:9999; 
+    visibility:hidden; 
+    position:absolute;
+    padding: 0rpx;
+    border-radius: 6rpx;
+    white-space: nowrap;
+}
+
+div.intcaselink {
+    cursor: pointer;
+    padding: 6rpx 16rpx 6rpx 16rpx;
+    margin: 10rpx;
+    background:#EEE none repeat scroll 0% 0%; 
+    border:2rpx solid #AAA;
+    border-radius: 6rpx;
+}
+
+div.refpageimage {
+    position: absolute;
+    left: 0rpx;
+    top: 0rpx;
+    font-size: 0rpx;
+    width: 32rpx;
+    height: 32rpx;
+    cursor: pointer;
+    background-image: url(images/newwindow.gif);
+    background-repeat: no-repeat;
+}
+
+div.annnoteimage {
+    position: absolute;
+    left: 0rpx;
+    top: 0rpx;
+    font-size: 0rpx;
+    /*width: 32rpx;
+    height: 24rpx;*/
+    cursor: help;
+    /*background-image: url(images/note.gif);*/
+    /*background-repeat: no-repeat;*/
+    width: 26rpx;
+    height: 24rpx;
+    padding-top: 2rpx;
+    text-align: center;
+    background-color: #138CDD;
+    -moz-box-shadow: 2rpx 2rpx 6rpx #aaa;
+    -webkit-box-shadow: 2rpx 2rpx 6rpx #aaa;
+    box-shadow: 2rpx 2rpx 6rpx #aaa;
+}
+
+div.annnoteline {
+    display: inline-block;
+    width: 18rpx;
+    height: 2rpx;
+    border-bottom: 2rpx solid white;
+    margin-top: 2rpx;
+}
+
+div.annnotelabel {
+    position: absolute;
+    left: 0rpx;
+    top: 0rpx;
+    font-family: Helvetica,Arial;
+    font-size: 20rpx;
+    /*border: 2rpx solid rgb(166,221,242);*/
+    cursor: help;
+    /*background:rgb(0,157,217) none repeat scroll 0% 0%;*/ 
+    padding: 2rpx 6rpx 2rpx 6rpx;
+    white-space: nowrap;
+    color: white;
+    
+    background-color: #138CDD;
+    -moz-box-shadow: 2rpx 2rpx 6rpx #aaa;
+    -webkit-box-shadow: 2rpx 2rpx 6rpx #aaa;
+    box-shadow: 2rpx 2rpx 6rpx #aaa;
+}
+
+.annotation {
+    font-size: 24rpx;
+    padding-left: 4rpx;
+    margin-bottom: 10rpx;
+}
+
+.annotationName {
+    /*font-size: 26rpx;
+    font-weight: bold;
+    margin-bottom: 6rpx;
+    white-space: nowrap;*/
+
+    font-family: 'Trebuchet MS';
+    font-size: 28rpx;
+    font-weight: bold;
+    margin-bottom: 10rpx;
+    white-space: nowrap;
+}
+
+.annotationValue {
+    font-family: Arial, Helvetica, Sans-Serif;
+    font-size: 24rpx;
+    color: #4a4a4a;
+    line-height: 42rpx;
+    margin-bottom: 40rpx;
+}
+
+.noteLink {
+    text-decoration: inherit;
+    color: inherit;
+}
+
+.noteLink:hover {
+    background-color: white;
+}
+
+/* this is a fix for the issue where dialogs jump around and takes the text-align from the body */
+.dialogFix {
+    position:absolute;
+    text-align:left;
+    border: 2rpx solid #8f949a;
+}
+
+
+@keyframes pulsate {
+  from {
+    box-shadow: 0 0 20rpx #15d6ba;
+  }
+  to {
+    box-shadow: 0 0 40rpx #15d6ba;
+  }
+}
+
+@-webkit-keyframes pulsate {
+  from {
+    -webkit-box-shadow: 0 0 20rpx #15d6ba;
+    box-shadow: 0 0 20rpx #15d6ba;
+  }
+  to {
+    -webkit-box-shadow: 0 0 40rpx #15d6ba;
+    box-shadow: 0 0 40rpx #15d6ba;
+  }
+}
+ 
+@-moz-keyframes pulsate {
+  from {
+    -moz-box-shadow: 0 0 20rpx #15d6ba;
+    box-shadow: 0 0 20rpx #15d6ba;
+  }
+  to {
+    -moz-box-shadow: 0 0 40rpx #15d6ba;
+    box-shadow: 0 0 40rpx #15d6ba;
+  }
+}
+
+.legacyPulsateBorder {
+    /*border: 10rpx solid #15d6ba;
+    margin: -10rpx;*/
+    -moz-box-shadow: 0 0 20rpx 6rpx #15d6ba;
+    box-shadow: 0 0 20rpx 6rpx #15d6ba;
+}
+
+.pulsateBorder {
+  animation-name: pulsate;
+  animation-timing-function: ease-in-out;
+  animation-duration: 0.9s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+  
+  -webkit-animation-name: pulsate;
+  -webkit-animation-timing-function: ease-in-out;
+  -webkit-animation-duration: 0.9s;
+  -webkit-animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+
+  -moz-animation-name: pulsate;
+  -moz-animation-timing-function: ease-in-out;
+  -moz-animation-duration: 0.9s;
+  -moz-animation-iteration-count: infinite;
+  -moz-animation-direction: alternate;
+}
+
+.ax_default_hidden, .ax_default_unplaced{
+    display: none;
+    visibility: hidden;
+}
+
+.widgetNoteSelected {
+    -moz-box-shadow: 0 0 20rpx 6rpx #138CDD;
+    box-shadow: 0 0 20rpx 6rpx #138CDD;
+    /*-moz-box-shadow: 0 0 40rpx #3915d6;
+    box-shadow: 0 0 40rpx #3915d6;*/
+    /*border: 6rpx solid #3915d6;*/
+    /*margin: -6rpx;*/
+}
+
+
+.singleImg {
+    display: none;
+    visibility: hidden;
+}

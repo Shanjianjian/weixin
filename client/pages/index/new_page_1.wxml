@@ -1,0 +1,70 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <title>New Page 1</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <link href="resources/css/jquery-ui-themes.css" type="text/css" rel="stylesheet"/>
+    <link href="resources/css/axure_rp_page.css" type="text/css" rel="stylesheet"/>
+    <link href="data/styles.css" type="text/css" rel="stylesheet"/>
+    <link href="files/new_page_1/styles.css" type="text/css" rel="stylesheet"/>
+    <script src="resources/scripts/jquery-1.7.1.min.js"></script>
+    <script src="resources/scripts/jquery-ui-1.8.10.custom.min.js"></script>
+    <script src="resources/scripts/prototypePre.js"></script>
+    <script src="data/document.js"></script>
+    <script src="resources/scripts/prototypePost.js"></script>
+    <script src="files/new_page_1/data.js"></script>
+    <script type="text/javascript">
+      $axure.utils.getTransparentGifPath = function() { return 'resources/images/transparent.gif'; };
+      $axure.utils.getOtherPath = function() { return 'resources/Other.html'; };
+      $axure.utils.getReloadPath = function() { return 'resources/reload.html'; };
+    </script>
+  </head>
+  <body>
+    <div id="base" class="">
+
+      <!-- Unnamed (矩形) -->
+      <div id="u0" class="ax_default box_1">
+        <div id="u0_div" class=""></div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u1" class="ax_default box_2">
+        <div id="u1_div" class=""></div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u2" class="ax_default _标题_1">
+        <div id="u2_div" class=""></div>
+        <div id="u2_text" class="text ">
+          <p><span>树一树</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u3" class="ax_default _标题_2">
+        <div id="u3_div" class=""></div>
+        <div id="u3_text" class="text ">
+          <p><span>习惯养成</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u4" class="ax_default _文本">
+        <div id="u4_div" class=""></div>
+        <div id="u4_text" class="text ">
+          <p style="font-size:20px;"><span style="font-family:'Ebrima Normal', 'Ebrima';">&nbsp;&nbsp;&nbsp; 想要拥有完美身材却止于不能坚持健身么？想要成为学霸，却止于懒惰么？想要过四六级，却不能坚持背单词么？来树一树吧。</span></p><p style="font-size:20px;"><span style="font-family:'Arial Rounded MT Bold', 'Arial Rounded MT';font-weight:700;font-style:normal;color:#666666;">&nbsp;&nbsp;&nbsp; </span><span style="font-family:'Arial Rounded MT Bold', 'Arial Rounded MT';font-weight:700;font-style:normal;color:#666666;">帮助你养成</span><span style="font-family:'Arial Rounded MT Bold', 'Arial Rounded MT';font-weight:700;font-style:normal;color:#FF9900;">良好习惯</span><span style="font-family:'Arial Rounded MT Bold', 'Arial Rounded MT';font-weight:700;font-style:normal;color:#666666;">，完成任务即可获得</span><span style="font-family:'Arial Rounded MT Bold', 'Arial Rounded MT';font-weight:700;font-style:normal;color:#FF3399;">叶子币</span><span style="font-family:'Arial Rounded MT Bold', 'Arial Rounded MT';font-weight:700;font-style:normal;color:#666666;">，可以在树屋世界中换得</span><span style="font-family:'Arial Rounded MT Bold', 'Arial Rounded MT';font-weight:700;font-style:normal;font-size:24px;color:#FF6600;">精美房屋</span><span style="font-family:'Arial Rounded MT Bold', 'Arial Rounded MT';font-weight:700;font-style:normal;color:#666666;">，和</span><span style="font-family:'Arial Rounded MT Bold', 'Arial Rounded MT';font-weight:700;font-style:normal;font-size:24px;color:#FF3399;">可爱萌宠</span><span style="font-family:'Arial Rounded MT Bold', 'Arial Rounded MT';font-weight:700;font-style:normal;color:#666666;">哦！快快体验吧！</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u5" class="ax_default primary_button">
+        <div id="u5_div" class=""></div>
+        <div id="u5_text" class="text ">
+          <p><span>开始体验</span></p>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

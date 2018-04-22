@@ -1,0 +1,102 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <title>心情果实介绍</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <link href="resources/css/jquery-ui-themes.css" type="text/css" rel="stylesheet"/>
+    <link href="resources/css/axure_rp_page.css" type="text/css" rel="stylesheet"/>
+    <link href="data/styles.css" type="text/css" rel="stylesheet"/>
+    <link href="files/心情果实介绍/styles.css" type="text/css" rel="stylesheet"/>
+    <script src="resources/scripts/jquery-1.7.1.min.js"></script>
+    <script src="resources/scripts/jquery-ui-1.8.10.custom.min.js"></script>
+    <script src="resources/scripts/prototypePre.js"></script>
+    <script src="data/document.js"></script>
+    <script src="resources/scripts/prototypePost.js"></script>
+    <script src="files/心情果实介绍/data.js"></script>
+    <script type="text/javascript">
+      $axure.utils.getTransparentGifPath = function() { return 'resources/images/transparent.gif'; };
+      $axure.utils.getOtherPath = function() { return 'resources/Other.html'; };
+      $axure.utils.getReloadPath = function() { return 'resources/reload.html'; };
+    </script>
+  </head>
+  <body>
+    <div id="base" class="">
+
+      <!-- Unnamed (组 合) -->
+      <div id="u28" class="ax_default" data-left="125" data-top="125" data-width="375" data-height="667">
+
+        <!-- Unnamed (组 合) -->
+        <div id="u29" class="ax_default" data-left="125" data-top="125" data-width="375" data-height="667">
+
+          <!-- Unnamed (矩形) -->
+          <div id="u30" class="ax_default box_1">
+            <div id="u30_div" class=""></div>
+          </div>
+
+          <!-- Unnamed (矩形) -->
+          <div id="u31" class="ax_default box_2">
+            <div id="u31_div" class=""></div>
+          </div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u32" class="ax_default _标题_3">
+          <div id="u32_div" class=""></div>
+          <div id="u32_text" class="text ">
+            <p><span>心情果实</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (水平线) -->
+        <div id="u33" class="ax_default arrow">
+          <img id="u33_img" class="img " src="images/心情果实介绍/u33.png"/>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u34" class="ax_default label">
+          <div id="u34_div" class=""></div>
+          <div id="u34_text" class="text ">
+            <p><span>叶子币：00001</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u35" class="ax_default _文本">
+          <div id="u35_div" class=""></div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u36" class="ax_default _文本">
+          <div id="u36_div" class=""></div>
+          <div id="u36_text" class="text ">
+            <p style="font-size:23px;"><span style="color:#666666;">&nbsp;&nbsp;&nbsp; 是否因为生活中的琐事而心情忧郁，是否因为因为和他人吵架而暴躁烦闷？那么去点开心情果实吧。</span></p><p style="font-size:23px;"><span style="color:#666666;">&nbsp;&nbsp;&nbsp; 小果实中有惊喜等着你，还有几率触发</span><span style="font-size:25px;color:#FFCC00;">中奖</span><span style="color:#666666;">事件，轻松获得</span><span style="font-size:25px;color:#33CCFF;">叶子币</span><span style="color:#666666;">哦，</span></p><p style="font-size:23px;"><span style="color:#666666;">&nbsp;&nbsp;&nbsp; 每天只能点击</span><span style="font-size:30px;color:#FF0066;">5</span><span style="color:#666666;">次，也可用</span><span style="font-size:30px;color:#FF0066;">5</span><span style="color:#666666;">个叶子币兑换</span><span style="font-size:30px;color:#FF0066;">一</span><span style="color:#666666;">次点击次数哦</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (组 合) -->
+        <div id="u37" class="ax_default" data-left="231" data-top="660" data-width="149" data-height="71">
+
+          <!-- Unnamed (水平线) -->
+          <div id="u38" class="ax_default line">
+            <img id="u38_img" class="img " src="images/心情果实介绍/u38.png"/>
+          </div>
+
+          <!-- Unnamed (矩形) -->
+          <div id="u39" class="ax_default link_button">
+            <div id="u39_div" class=""></div>
+            <div id="u39_text" class="text ">
+              <p><span>开始挑战</span></p>
+            </div>
+          </div>
+
+          <!-- Unnamed (水平线) -->
+          <div id="u40" class="ax_default line">
+            <img id="u40_img" class="img " src="images/心情果实介绍/u38.png"/>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
